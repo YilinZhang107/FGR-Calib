@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+pillow>=9.0
+tqdm>=4.64
+opencv-python>=4.7
+scikit-image>=0.20
+wilds>=2.0
+swanlab>=0.5
+scipy>=1.10
