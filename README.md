@@ -159,6 +159,14 @@ The training entry supports:
 
 FGR is enabled by passing `--fgr`. The main FGR hyperparameters are `--rho`, `--start-epoch`, `--filter-type`, `--filter-severities`, and `--calibration-loss`.
 
+## Acknowledgements
+
+This codebase refers to and benefits from the implementations in the following repositories. We sincerely thank the authors for their open-source contributions:
+
+- [torrvision/focal_calibration](https://github.com/torrvision/focal_calibration)
+- [Linwei94/ICML2023-DualFocalLoss](https://github.com/Linwei94/ICML2023-DualFocalLoss)
+- [dexterdley/MaxEnt-Loss](https://github.com/dexterdley/MaxEnt-Loss)
+
 ## Notes
 
 - Edit paths and hyperparameters directly in the shell scripts before running.
