@@ -155,7 +155,7 @@ The training entry supports:
 - `brier_score`
 - `bsce_gra`
 
-FGR is enabled by passing `--fgr`. The main FGR hyperparameters are `--rho`, `--start-epoch`, `--filter-type`, `--filter-severities`, and `--calibration-loss`.
+FGR is enabled by passing `--fgr`. The main FGR hyperparameters are `--rho`, `--start-epoch`, `--filter-severities`, and `--calibration-loss`.
 
 ## 📦 Notes
 
