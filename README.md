@@ -164,3 +164,4 @@ FGR is enabled by passing `--fgr`. The main FGR hyperparameters are `--rho`, `--
 - Edit paths and hyperparameters directly in the shell scripts before running.
 - CIFAR FGR has two modes: from-scratch training for 350 epochs and fine-tuning from a CE checkpoint for 100 epochs.
 - Checkpoints are saved under `./checkpoints` by default.
+- For questions, please contact `ylzhang_3@stu.xidian.edu.cn`.
